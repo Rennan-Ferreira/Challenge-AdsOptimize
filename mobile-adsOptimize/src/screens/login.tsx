@@ -64,7 +64,7 @@ const estilo = StyleSheet.create({
     logo:{
         width:320,
         height:320,
-        left:50,
+        left:40,
         top:80,
         marginBottom: 100
     },
